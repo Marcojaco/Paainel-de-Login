@@ -13,18 +13,6 @@ A página contém:
 
 Nenhum JavaScript foi usado. É estrutura e estilo, ponto.
 
-## Estrutura de Arquivos
-
-NeonTrack/
-│
-├── index.html
-├── static/
-│ ├── css/
-│ │ └── style.css
-│ └── img/
-│   └── neon_track_logo_black.png
-
-
 ## Tecnologias Utilizadas
 
 - HTML5  
